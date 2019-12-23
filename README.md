@@ -1,5 +1,7 @@
-# 2020-500-syllabus
+# 2020-500-syllabus README
 
-This is the syllabus repository for PQHS/CRSP/MPHP 500 in Spring 2020 with Professor Thomas Love at CWRU.
+This is the syllabus repository for PQHS / CRSP / MPHP 500: Observational Studies in Spring 2020.
 
-To contact Professor Love, email him at `thomas dot love at case dot edu`.
+View the syllabus (in HTML, PDF or Kindle e-book format) at https://thomaselove.github.io/2020-500-syllabus/.
+
+To contact Professor Love, email Thomas dot Love at case dot edu.
