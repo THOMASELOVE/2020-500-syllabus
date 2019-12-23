@@ -19,14 +19,14 @@ Thomas E. Love, Ph.D.
 
 ## Offices
 
-- Wood WG-82L on the ground floor of the Wood building (Tuesdays and Thursdays)
+- Wood WG-82J on the ground floor of the Wood building (Tuesdays and Thursdays)
 - Rammelkamp R-229A at MetroHealth Medical Center (Wednesdays and Fridays)
 
 Dr. Love is available from 11 AM to noon after each class, otherwise by appointment on Tuesdays and Thursdays (send him an email to schedule an appointment.) 
 
 ## Web 
 
-- [Web site for this course](https://github.com/thomaselove/2019-500)
+- [Web site for this course](https://github.com/thomaselove/2020-500)
 - Dr. Love's GitHub name is [THOMASELOVE](https://github.com/thomaselove).
 - His Twitter handle is @[ThomasELove](https://twitter.com/ThomasELove)
 
@@ -48,6 +48,7 @@ In research, I use statistical methods to look at questions in health policy and
 - I've also worked on many projects involving the use of propensity scores to make causal inferences from observational studies, particularly in heart failure.
 - I serve on an [AHRQ study section](https://www.ahrq.gov/funding/process/study-section/hcrtrst.html) which reviews research training and career development grants.
 
-If you want to see a [list of many of my publications](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48415155/?sort=date&direction=ascending), knock yourself out. 
+If you want to see [some of my publications](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/48415155/?sort=date&direction=ascending), knock yourself out. 
 
-I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation advisor was Paul Rosenbaum. I am married to a brilliant woman and we are raising two terrific sons, the elder of whom is in college now. I live in Shaker Heights. In spare moments, I [do community theater](https://github.com/THOMASELOVE/theater), and have appeared onstage with several local groups.
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation advisor was Paul Rosenbaum. I am married to a brilliant woman and we are raising two terrific sons. The elder is a junior at the University of Pittsburgh, and the younger will study at Columbia this Fall. I live in Shaker Heights. In spare moments, I [do community theater](https://github.com/THOMASELOVE/theater) among other things.
+
