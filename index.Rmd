@@ -33,8 +33,8 @@ Additional sources will be presented and/or referenced in class, and those are g
 
 ## Getting Help {-}
 
-To get help for anything related to the course, email Dr. Love at `thomas.love@case.edu`.
+To get help for anything related to the course, email Dr. Love, and/or the TA, Harry Persaud.
 
-- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. He is also available from 11 AM to Noon after each class for drop-in conversations. His office is Wood WG-82 J.
+- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. He is also available from 11 to 11:30 AM after each class for drop-in conversations. His office is Wood WG-82 J.
     + If you have any special concerns about the course, need special accommodations or any other issues for Dr. Love, please email or speak with him before or after class.
-
+- Harry Persaud has agreed to volunteer as a teaching assistant for the course. Harry will be available to answer questions (mostly about coding in R, propensity scores and data management) either in person (by arrangement) or via email, at `hpersaud92@gmail.com`.
